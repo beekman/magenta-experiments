@@ -1,36 +1,4 @@
-Resources for Making Interactive Music Apps With Magenta.js
-===========================================================
-
-Part 1
-------
-
-Kick drum
-
-* [Tone.js](https://tonejs.github.io/)
-* [jsDelivr CDN](https://www.jsdelivr.com/)
-* [Tone.Player API docs](https://tonejs.github.io/docs/14.7.39/Player) & [Tone.Players API docs](https://tonejs.github.io/docs/14.7.39/Players)
-* [Tone.start() API docs](https://tonejs.github.io/docs/14.7.39/fn/start)
-* [Tone.Transport API docs](https://tonejs.github.io/docs/14.7.39/Transport)
-* [Tone.Loop API docs](https://tonejs.github.io/docs/14.7.39/Loop)
-* [The different ways to express timing in Tone.js](https://github.com/Tonejs/Tone.js/wiki/Time)
-* [Tone.Part API docs](https://tonejs.github.io/docs/14.7.39/Part)
-
-Bass
-
-* [Tone.Synth API docs](https://tonejs.github.io/docs/14.7.39/Synth)
-* [Tone.Filter API docs](https://tonejs.github.io/docs/14.7.39/Filter)
-
-Lead
-
-* [Freesound](https://freesound.org/)
-* [Tone.Sampler API docs](https://tonejs.github.io/docs/14.7.39/Sampler)
-* [NexusUI](https://nexus-js.github.io/ui/)
-* [Tone.Draw API docs](https://tonejs.github.io/docs/14.7.39/Draw)
-
-FX
-
-* [Tone.PingPongDelay](https://tonejs.github.io/docs/14.7.39/PingPongDelay)
-* [Tone.Reverb](https://tonejs.github.io/docs/14.7.39/Reverb)
+A JavaScript-based audio experiment using Magenta.js to generate dynamic music performances, using user input to generate dynamic musical phrases and beats with the help of two different machine learning models for music and rhythm.
 
 Part 2
 ------
